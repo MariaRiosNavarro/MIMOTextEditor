@@ -51,6 +51,12 @@ function toggleImpact() {
 }
 
 
+selectElement.addEventListener('change', function() {
+    link.src = this.value;
+  });
+
+
+
 
 /*function changeImage() {
     const option = document.querySelectorAll("select option");
