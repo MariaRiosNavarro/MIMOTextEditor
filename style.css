@@ -78,3 +78,6 @@ h1 {
     font-weight: bold;
 }
 
+label {
+    margin: 3px;
+}
