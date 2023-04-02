@@ -14,7 +14,7 @@ function setColor() {
 
 function setLink (){
     const input = document.querySelectorAll("input")[1];
-    setLink.setAttribute("src", input.value);
+    link.setAttribute("src", input.value);
 }
 
 
