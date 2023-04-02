@@ -56,6 +56,12 @@ function changeRedCat() {
    link.src="/img/redCat.png";
 }
 
-/**function setLink (){
-    const input = document.querySelectorAll("input")[1];
-    link.setAttribute("src", input.value);*/
+/**
+    
+    
+    "document.querySelector('img').src = this.value;"
+    
+    
+    
+    
+    */
