@@ -88,3 +88,11 @@ input {
     border-radius: 5px;
 }
 
+option {
+    background-color: lightblue;
+}
+
+option:default {
+    background-color: aqua;
+}
+
