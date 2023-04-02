@@ -5,3 +5,9 @@ function setColor() {
 
 }
 /* now we can type any colour value (hex or name) in the colour input of the page and it will change the colour of the p text in the square.*/
+
+
+function setLink (){
+    const input = document.querySelectorAll("input")[1];
+    setLink.setAttribute("src", input.value);
+}
