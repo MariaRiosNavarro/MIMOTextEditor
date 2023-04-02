@@ -92,7 +92,7 @@ option {
     background-color: lightblue;
 }
 
-option :default {
+option :selected {
     background-color: aqua;
 }
 
