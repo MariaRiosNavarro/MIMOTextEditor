@@ -20,8 +20,11 @@ function toggleUnderline() {
 }
 
 
-
-function toggleBold() {}
-function toggleItalic() {}
+function toggleBold() {
+    el.classList.toggle("bold")
+}
+function toggleItalic() {
+    el.classList.toggle("italic")
+}
 function addMonospace() {}
 function removeFormat() {}
