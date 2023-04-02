@@ -54,7 +54,7 @@ const option = el.querySelector("option");
 
 function changeImage() {
    
-    if option === option.redCat {
+    if (option === option.redCat) {
         return link.setAttribute("src", "/img/redCat.png");
     }  
   
