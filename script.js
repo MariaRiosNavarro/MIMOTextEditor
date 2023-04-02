@@ -1,1 +1,1 @@
-const el = ;
+const el = document.querySelector("#page");
