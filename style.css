@@ -13,7 +13,7 @@
   
   /* Weitere CSS-Regeln hier einfügen */
 
-/*html {
+html {
     background-color: lightblue;
 }
 
@@ -116,7 +116,7 @@ select option:hover{
 select option:selected{
     background-color: lightblue !important;
 }
-*/
+
 
 
 
