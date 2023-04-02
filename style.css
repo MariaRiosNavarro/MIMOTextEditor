@@ -89,15 +89,16 @@ input {
 }
 
 select option {
-    background-color: darkblue;
-    color: aliceblue;
+    background-color: darkblue !important;
+    color: aliceblue !important;
 }
 
 select option:hover {
-    background-color: aqua;
+    background-color: black !important;
+    color: aliceblue !important;
 }
 
 select option:selected {
-    background-color: lightblue;
+    background-color: lightblue !important;
 }
 
