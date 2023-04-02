@@ -42,3 +42,9 @@ function addMonospace() {
 function removeFormat() {
     el.classList.remove("underline", "bold", "italic", "gray-text", "mono");
 }
+
+
+/*New JS from the new Branch */
+function toggleImpact() {
+    el.classList.toggle("impact");
+}
