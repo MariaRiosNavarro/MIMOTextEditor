@@ -88,17 +88,17 @@ input {
     border-radius: 5px;
 }
 
-select option {
+select option{
     background-color: darkblue !important;
     color: aliceblue !important;
 }
 
-select option:hover {
+select option:hover{
     background-color: black !important;
     color: aliceblue !important;
 }
 
-select option:selected {
+select option:selected{
     background-color: lightblue !important;
 }
 
