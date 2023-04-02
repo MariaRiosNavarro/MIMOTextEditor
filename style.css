@@ -89,7 +89,8 @@ input {
 }
 
 select option {
-    background-color: lightskyblue;
+    background-color: darkblue;
+    color: aliceblue;
 }
 
 select option:hover {
