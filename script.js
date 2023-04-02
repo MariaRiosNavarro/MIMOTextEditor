@@ -52,8 +52,8 @@ function toggleImpact() {
 
 const option = el.querySelector("option");
 
-function changeRedCat() {
-   link.src="/img/redCat.png";
+function changeImage() {
+   link.src=link.value;
 }
 
 /**
