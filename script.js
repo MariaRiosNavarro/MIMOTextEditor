@@ -58,10 +58,3 @@ selectElement.addEventListener("change", function() {
   });
 
 
-
-
-/*function changeImage() {
-    const option = document.querySelectorAll("select option");
-    option.value;
-}
-
