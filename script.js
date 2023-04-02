@@ -13,8 +13,14 @@ function setLink (){
 }
 
 
+/*we want the buttons to add or remove a style with just one press. We´ll use classList.toggle()to do that. First with underline*/
 
-function toggleUnderline() {}
+function toggleUnderline() {
+    el.classList.toggle("underline");
+}
+
+
+
 function toggleBold() {}
 function toggleItalic() {}
 function addMonospace() {}
