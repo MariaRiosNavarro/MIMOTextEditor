@@ -12,8 +12,10 @@ function setLink (){
     setLink.setAttribute("src", input.value);
 }
 
+
+
+function toggleUnderline() {}
 function toggleBold() {}
 function toggleItalic() {}
-function toggleUnderline() {}
 function addMonospace() {}
 function removeFormat() {}
