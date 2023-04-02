@@ -88,11 +88,15 @@ input {
     border-radius: 5px;
 }
 
-option {
-    background-color: lightblue;
+select option {
+    background-color: lightskyblue;
 }
 
-option ::selection {
+select option:hover {
     background-color: aqua;
+}
+
+select option:selected {
+    background-color: lightblue;
 }
 
