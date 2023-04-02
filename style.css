@@ -83,3 +83,7 @@ label {
     color: darkblue;
     font-weight: bold;
 }
+
+input {
+    border-radius: 5px;
+}
