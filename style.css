@@ -88,7 +88,7 @@ input {
     border-radius: 5px;
 }
 
-select option {
+/*select option {
     background-color: darkblue !important;
     color: aliceblue !important;
 }
@@ -101,4 +101,29 @@ select option:hover {
 select option:selected {
     background-color: lightblue !important;
 }
+*/
 
+select[name="changeImage"] option[value="redCat"] {
+    background-color: darkred;
+    color: white;
+}
+
+select[name="changeImage"] option[value="blueCat"] {
+    background-color: blue;
+    color: white;
+}
+
+select[name="changeImage"] option[value="greenCat"] {
+    background-color: green;
+    color: white;
+}
+
+select[name="changeImage"] option[value="yellowCat"] {
+    background-color: yellow;
+    color: black;
+}
+
+select[name="changeImage"] option[value="allColorsCat"] {
+    background-color: black;
+    color: white;
+}
