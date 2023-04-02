@@ -35,5 +35,5 @@ function addMonospace() {
 
 /* now we use the method .remove with Format */
 function removeFormat() {
-    el.classList.remove();
+    el.classList.remove("underline", "bold", "italic", "gray-text", "mono");
 }
