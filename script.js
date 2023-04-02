@@ -53,7 +53,7 @@ function toggleImpact() {
 
 const selectElement = document.querySelector("#changeImage");
 
-selectElement.addEventListener('change', function() {
+selectElement.addEventListener("change", function() {
     link.src = this.value;
   });
 
