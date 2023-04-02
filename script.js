@@ -1,5 +1,5 @@
 const el = document.querySelector("#page");
-const link = ;
+const link = el.querySelector("img") ;
 
 function setColor() {
     const input = document.querySelectorAll("input")[0];
