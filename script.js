@@ -25,9 +25,13 @@ function toggleBold() {
 }
 function toggleItalic() {
     el.classList.toggle("italic");
+
+/* now we use the method .add with Monospace */
 }
 function addMonospace() {
     el.classList.add("gray-text","mono");
 
 }
+
+/* now we use the method .remove with Format */
 function removeFormat() {}
