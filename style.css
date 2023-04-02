@@ -28,10 +28,10 @@ img{
 
 p {
     margin: 4px;
-    padding: 4px;
+    padding: 10px;
     border: 1px solid black;
-    border-radius: 3px ;
-    background-color: bisque;
+    border-radius: 10px ;
+    background-color: lightblue;
 }
 body{
     height: 500px;
