@@ -1,5 +1,5 @@
 const el = document.querySelector("#page");
 function setColor() {
-    const input = ;
+    const input = document.querySelectorAll("input")[0];
 
 }
