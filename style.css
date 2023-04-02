@@ -1,3 +1,10 @@
+* {
+    background: linear-gradient(#3D7EAA,
+    #ffe47a);
+}
+
+
+
 .bold {
     font-weight: bold;
 }
