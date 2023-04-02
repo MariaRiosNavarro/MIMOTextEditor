@@ -50,10 +50,11 @@ function toggleImpact() {
     el.classList.toggle("impact");
 }
 
-const option = el.querySelector("option");
+
 
 function changeImage() {
-   link.src=link.value;
+    const option = el.querySelector("option");
+   link.src=option.value;
 }
 
 /**
