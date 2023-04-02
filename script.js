@@ -54,7 +54,7 @@ function toggleImpact() {
 
 function changeImage() {
     const option = el.querySelector("option");
-   link.src=option.value;
+    link.src=option.value;
 }
 
 /**
