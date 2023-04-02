@@ -26,6 +26,12 @@ img{
     width: 250px;
 }
 
+p {
+    margin: 4px;
+    padding: 4px;
+    border: 1px solid black;
+    border-radius: 3px ;
+}
 body{
     height: 500px;
 }
