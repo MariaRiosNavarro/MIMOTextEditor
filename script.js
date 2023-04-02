@@ -34,4 +34,6 @@ function addMonospace() {
 }
 
 /* now we use the method .remove with Format */
-function removeFormat() {}
+function removeFormat() {
+    el.classList.remove();
+}
