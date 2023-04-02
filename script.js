@@ -57,12 +57,3 @@ function changeImage() {
     link.src=option.value;
 }
 
-/**
-    
-    
-    "document.querySelector('img').src = this.value;"
-    
-    
-    
-    
-    */
