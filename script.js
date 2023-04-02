@@ -21,10 +21,13 @@ function toggleUnderline() {
 
 
 function toggleBold() {
-    el.classList.toggle("bold")
+    el.classList.toggle("bold");
 }
 function toggleItalic() {
-    el.classList.toggle("italic")
+    el.classList.toggle("italic");
 }
-function addMonospace() {}
+function addMonospace() {
+    el.classList.add("gray-text","mono");
+
+}
 function removeFormat() {}
