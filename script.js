@@ -1,4 +1,7 @@
 const el = document.querySelector("#page");
+
+/* code el.querySelector("img") to look for img elements that are children of the elements with ID #page */
+
 const link = el.querySelector("img") ;
 
 function setColor() {
