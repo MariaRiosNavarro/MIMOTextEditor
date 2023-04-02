@@ -1,3 +1,38 @@
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.grey-text {
+    color: #616161;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 img{
     width: 250px;
