@@ -11,3 +11,9 @@ function setLink (){
     const input = document.querySelectorAll("input")[1];
     setLink.setAttribute("src", input.value);
 }
+
+function toggleBold() {}
+function toggleItalic() {}
+function toggleUnderline() {}
+function addMonospace() {}
+function removeFormat() {}
