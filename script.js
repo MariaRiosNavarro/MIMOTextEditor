@@ -52,10 +52,10 @@ function toggleImpact() {
 
 const option = el.querySelector("option");
 
-function toggleBlueCat() {
-    
-    
-
+function changeImage() {
+    option.
+    link.src=
+  
 }
 
 /**function setLink (){
