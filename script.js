@@ -4,6 +4,7 @@ const el = document.querySelector("#page");
 
 const link = el.querySelector("img") ;
 
+
 function setColor() {
     const input = document.querySelectorAll("input")[0];
     el.style.color = input.value;
@@ -48,3 +49,15 @@ function removeFormat() {
 function toggleImpact() {
     el.classList.toggle("impact");
 }
+
+const option = el.querySelector("option");
+
+function toggleBlueCat() {
+    
+    
+
+}
+
+/**function setLink (){
+    const input = document.querySelectorAll("input")[1];
+    link.setAttribute("src", input.value);*/
